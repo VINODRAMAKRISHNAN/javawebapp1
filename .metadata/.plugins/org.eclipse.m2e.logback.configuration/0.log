@@ -1,0 +1,21 @@
+2015-03-09 01:07:02,106 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples.spring:spring-utility:1.0.0.CI-SNAPSHOT @ D:\javagithub\javawebapp1\consumersearch-utility\pom.xml.
+2015-03-09 01:07:06,751 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples.spring:spring-utility:1.0.0.CI-SNAPSHOT @ D:\javagithub\javawebapp1\consumersearch-utility\pom.xml.
+2015-03-09 01:07:07,202 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-09 01:07:07,225 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-03-09 01:07:07,231 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-09 01:07:07,234 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-03-09 01:07:08,491 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples.spring:spring-utility:1.0.0.CI-SNAPSHOT @ D:\javagithub\javawebapp1\consumersearch-utility\pom.xml.
+2015-03-09 01:07:08,994 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-09 01:07:08,999 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-03-09 01:07:09,001 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-09 01:07:09,004 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-03-09 01:07:26,251 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vodafone.consumersearch:web:1.0.0-BUILD-SNAPSHOT @ D:\javagithub\javawebapp1\consumersearch-web\pom.xml.
+2015-03-09 01:07:27,787 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-09 01:07:27,790 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-03-09 01:07:27,803 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-09 01:07:27,808 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-03-09 01:07:28,323 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: vodafone.consumersearch:web:1.0.0-BUILD-SNAPSHOT @ D:\javagithub\javawebapp1\consumersearch-web\pom.xml.
+2015-03-09 01:07:30,701 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-09 01:07:30,704 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2015-03-09 01:07:30,712 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-03-09 01:07:30,716 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource

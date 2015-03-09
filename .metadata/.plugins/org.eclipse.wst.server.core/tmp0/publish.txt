@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Mar 09 01:07:43 CDT 2015
+org.eclipse.jst.j2ee.server\:consumersearch-utility=D\:\\springsts\\sts-bundle\\pivotal-tc-server-developer-3.0.2.SR2\\base-instance\\wtpwebapps\\consumersearch-web\\WEB-INF\\lib\\spring-utility-1.0.0.CI-SNAPSHOT.jar
+org.eclipse.jst.jee.server\:consumersearch-web=D\:\\springsts\\sts-bundle\\pivotal-tc-server-developer-3.0.2.SR2\\base-instance\\wtpwebapps\\consumersearch-web
