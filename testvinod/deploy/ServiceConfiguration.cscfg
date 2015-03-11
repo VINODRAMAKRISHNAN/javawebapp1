@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ServiceConfiguration xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="2" osVersion="*" serviceName="testAzureDeploymentProject">
+  <Role name="WorkerRole1">
+    <Instances count="1"/>
+    <ConfigurationSettings>
+      
+      
+      <!-- NOTE: replace the following settings with your own -->
+      
+      
+      
+    <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true"/>
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.Enabled" value="true"/>
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="vinod"/>
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2016-03-10T23:59:59.0000000-08:00"/>
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBGgYJKoZIhvcNAQcDoIIBCzCCAQcCAQAxgcwwgckCAQAwMjAeMRwwGgYDVQQDExNXaW5kb3dzIEF6dXJlIFRvb2xzAhAvIxjYat0ZmkBDXita+svWMA0GCSqGSIb3DQEBAQUABIGAqVLhlgSEcvJ7K5d4Dla1fKUYLOwo7uZFSKYMsftW7gy/a3q6aMjflD2vreRANMwCBDz+m1TZ0bX9+MO9cN9rVZ6ANA7828x0xY5zUCRkIlDnDn4mLSkWs+H3nj8+jgo5sdVarnJj3/+6DBEHIPoYgqmxXKeCht8yYUHpoVmp+VEwMwYJKoZIhvcNAQcBMBQGCCqGSIb3DQMHBAgktr+Y4NLPXYAQeFuIcfENKY1u8Q5kXTXClw=="/>
+    </ConfigurationSettings>
+    <Certificates>
+      
+      
+    <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="875F1656A34D93B266E71BF19C116C39F16B6987" thumbprintAlgorithm="sha1"/>
+    </Certificates>
+  </Role>
+</ServiceConfiguration>
